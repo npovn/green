@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Phát hiện nhựa trong phân em bé — Plastics in babies’ poop"
+subtitle: ""
+date: 2022-09-24 2:45:13 -0400
+background: '/img/posts/baby-poop.jpg'
+---
+# Phát hiện nhựa trong phân em bé — Plastics in babies’ poop
+Khi túi hoặc chai nhựa xuống cấp, nó sẽ vỡ ra thành những hạt nhỏ, gọi là vi nhựa. Khi giặt các loại vải tổng hợp, các sợi nhựa nhỏ cũng sẽ đứt ra. Khi lái xe, các mảnh nhựa sẽ rơi ra từ lốp và phanh xe. Đó là lý do vi nhựa đang hiện diện khắp mọi nơi. Nó có thể ở trên những đỉnh núi xa xôi nhất và trong những đại dương sâu nhất. Nó được thổi bằng  gió đến những vùng xa xôi, hoang sơ như Bắc Cực. 
+
+Và bây giờ, vi nhựa được phát hiện trong chất thải của trẻ sơ sinh. Trong một nghiên cứu, các nhà khoa học mô tả việc sàng lọc tã bẩn của trẻ sơ sinh và tìm thấy trung bình 36.000 nanogram polyethylene terephthalate (PET) trên một gram phân, gấp 10 lần lượng tìm thấy được trong phân người lớn. Thậm chí, nhựa còn tìm thấy trong phân đầu tiên của trẻ sơ sinh. (PET là một loại polymer cực kỳ phổ biến, được gọi là polyester khi nó được sử dụng trong quần áo và nó cũng được sử dụng để sản xuất chai nhựa. )
+
+### Nguồn nhựa
+Mặc dù người lớn lớn hơn, nhưng các nhà khoa học phát hiện, trẻ sơ sinh tiếp xúc nhiều hơn. 
+Uống từ bình sữa nóng, trẻ sơ sinh có thể hấp thụ vi nhựa 
+
+![](https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/02/Breast_Milk_Bottle-1296x728-Header-1024x575.jpg?w=1155&h=1528){:height='300px' width='500px'}
+
+Em bé có thói quen cho mọi thứ vào miệng: các loại đồ chơi bằng nhựa, quần áo 
+
+![](https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/04/BabyTeethingToy.jpg){:height='300px' width='500px'}
+
+Thức ăn của trẻ sơ sinh được bao bọc bằng chất dẻo sử dụng một lần. Trẻ em uống từ cốc nhựa và ăn khỏi đĩa nhựa. 
+
+Những tấm thảm mà trẻ con bò lên thường làm bằng polyester. Ngay cả sàn gỗ cứng cũng được phủ một lớp polyme có tác dụng loại bỏ vi nhựa.
+
+Bụi trong nhà cũng nổi lên như một con đường chính tiếp xúc với vi nhựa, đặc biệt là đối với trẻ sơ sinh. 
+
+### Chi tiết thí nghiệm
+Các nhà nghiên cứu đã kiểm đếm bằng cách thu thập tã bẩn từ 6 đứa trẻ 1 tuổi và cho phân qua bộ lọc để thu thập vi hạt. Họ cũng làm như vậy với ba mẫu phân - phân đầu tiên của trẻ sơ sinh - và mẫu phân của 10 người lớn. Ngoài việc phân tích các mẫu cho PET, họ cũng tìm kiếm nhựa polycarbonate, được sử dụng như một chất thay thế nhẹ cho thủy tinh, ví dụ như trong thấu kính thủy tinh. Để đảm bảo rằng chỉ đếm các vi nhựa đến từ ruột của trẻ sơ sinh chứ không phải từ tã, họ đã loại trừ loại nhựa mà tã được làm từ: polypropylene.
+
+![](https://vinmec-prod.s3.amazonaws.com/images/20211110_074018_899089_microplastic-1.max-1800x1800.jpg){:height='300px' width='500px'}
+
+Mối quan tâm đặc biệt là một loại hóa chất được gọi là hóa chất gây rối loạn nội tiết, hoặc EDC, gây rối loạn nội tiết tố và có liên quan đến các vấn đề sinh sản, thần kinh và trao đổi chất, chẳng hạn như làm tăng béo phì. Thành phần nhựa khét tiếng bisphenol A, hoặc BPA, là một trong những EDC có liên quan đến các bệnh ung thư khác nhau.
+
+Trẻ sơ sinh đặc biệt dễ bị EDCs, vì sự phát triển của cơ thể chúng phụ thuộc vào hệ thống nội tiết khỏe mạnh. 
+
+Vì trẻ sơ sinh đang đi qua vi nhựa trong phân của chúng, điều đó có nghĩa là ruột có thể hấp thụ một số hạt, giống như nó sẽ hấp thụ chất dinh dưỡng từ thức ăn. Điều này được gọi là chuyển vị: Các hạt đặc biệt nhỏ có thể đi qua thành ruột và kết thúc ở các cơ quan khác, bao gồm cả não. Trong một thí nghiệm, so với cá đối chứng, những trẻ em có hạt nhựa trong não ít hoạt động hơn và ăn chậm hơn.
+
+### Giải pháp
+Không pha sữa công thức cho trẻ sơ sinh với nước nóng trong chai nhựa — sử dụng chai thủy tinh và chuyển qua chai nhựa khi chất lỏng đạt đến nhiệt độ phòng.
+
+Hút bụi và quét để giữ cho sàn không có sợi nhỏ.
+
+Tránh bao gói và hộp đựng bằng nhựa khi có thể.
+
+Sử dụng những loại đồ chơi trẻ em an toàn, đã kiểm định về chất lượng. 
+
+Nhựa đã làm ô nhiễm mọi thứ trong cuộc sống chúng ta. Mặc dù sẽ không bao giờ loại bỏ được chúng, ít nhất bạn có thể giảm mức độ ảnh hưởng của chúng tới gia đình mình.

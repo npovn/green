@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Vòng tuần hoàn của 1 cái áo – Ted Talk "
+subtitle: ""
+date: 2022-09-24 2:45:13 -0400
+background: '/img/posts/t-shirt.jpg'
+---
+# Vòng tuần hoàn của 1 cái áo – Ted Talk 
+Hãy xem xét chiếc áo phông trắng cổ điển. Hàng năm, hai tỷ chiếc áo thun được mua trên toàn cầu, biến nó trở thành một trong những loại hàng may mặc phổ biến nhất trên thế giới. Nhưng chiếc áo thun trung bình được sản xuất như thế nào và ở đâu, và tác động đến môi trường của nó là gì? Hãy cùng tìm hiểu trong blog post lần này nhé 
+ 
+### Vòng đời
+
+#### Chế tạo
+Một chiếc áo phông điển hình bắt đầu tại một trang trại ở Mỹ, Trung Quốc hoặc Ấn Độ, nơi hạt bông được gieo, tưới và phát triển để tạo ra những quả bông mềm mại mà chúng tạo ra. Máy móc sẽ cẩn thận thu hoạch những quả bông này, một máy gin bông công nghiệp tách một cách cơ học các quả bông ra khỏi hạt, và xơ bông được ép thành những kiện nặng 225 kg. Cây bông cần một lượng lớn nước và thuốc trừ sâu. Cần 2.700 lít nước để sản xuất một chiếc áo phông trung bình, đủ để lấp đầy hơn 30 bồn tắm. Trong khi đó, bông sử dụng nhiều thuốc trừ sâu và thuốc trừ sâu hơn bất kỳ loại cây trồng nào trên thế giới. Các chất ô nhiễm này có thể gây ung thư, gây hại cho sức khỏe của công nhân hiện trường, và phá hủy các hệ sinh thái xung quanh. Một số áo phông được làm từ bông hữu cơ được trồng không có thuốc trừ sâu và thuốc diệt côn trùng, nhưng bông hữu cơ chỉ chiếm chưa đến 1% trong tổng số 22,7 triệu tấn bông được sản xuất trên toàn thế giới. Sau khi các kiện bông rời khỏi trang trại, các nhà máy dệt sẽ vận chuyển chúng đến một cơ sở kéo sợi, ở Trung Quốc hoặc Ấn Độ, nơi máy móc công nghệ cao trộn, chải, chải, kéo, căng và cuối cùng, xoắn bông thành những sợi dây tuyết. gọi là cúi. Sau đó, sợi được gửi đến nhà máy, nơi những chiếc máy dệt kim tròn khổng lồ dệt chúng thành những tấm vải thô màu xám được xử lý bằng nhiệt và hóa chất cho đến khi chúng chuyển sang màu trắng và mềm. Tại đây, vải được nhúng vào thuốc tẩy thương mại và thuốc nhuộm azo, tạo nên màu sắc sống động trong khoảng 70% hàng dệt. Thật không may, một số trong số này có chứa cadmium, chì, crom và thủy ngân gây ung thư. Các hợp chất và hóa chất độc hại khác có thể gây ô nhiễm trên diện rộng khi được thải ra dưới dạng nước thải độc hại ở sông và đại dương.
+ 
+Công nghệ hiện nay ở một số nước đã phát triển đến mức toàn bộ quá trình trồng trọt và sản xuất vải hầu như không cần tới con người. Nhưng chỉ cho đến thời điểm này. Sau khi vải thành phẩm được chuyển đến các nhà máy ở Bangladesh, Trung Quốc, Ấn Độ hoặc Thổ Nhĩ Kỳ sức lao động của con người vẫn được yêu cầu để khâu chúng thành áo thun, công việc phức tạp mà máy móc không thể làm được. Quá trình này có những vấn đề riêng của nó. Bangladesh, chẳng hạn, đã vượt qua Trung Quốc để trở thành nhà xuất khẩu áo thun cotton lớn nhất thế giới, sử dụng 4,5 triệu lao động trong ngành công nghiệp áo thun, nhưng họ thường phải đối mặt với điều kiện tồi tệ và mức lương thấp.
+
+![](https://s1.arlisman.com/wp-content/uploads/2020/04/T-shirt-manufacturers..-1.jpeg){:height='300px' width = '500px'}
+
+#### Vận chuyển
+Sau khi sản xuất, tất cả những chiếc áo thun đó được vận chuyển bằng tàu thủy, xe lửa và xe tải để được bán ở các quốc gia có thu nhập cao, một quá trình tạo ra lượng khí thải carbon khổng lồ cho bông. Một số quốc gia tự sản xuất quần áo trong nước, giúp loại bỏ khâu gây ô nhiễm này, nhưng nhìn chung, sản xuất hàng may mặc chiếm 10% lượng khí thải carbon toàn cầu. Và nó đang tăng. Hàng may mặc rẻ hơn và sự sẵn sàng mua của công chúng đã thúc đẩy sản xuất toàn cầu từ năm 1994 đến năm 2014 tăng 400% lên khoảng 80 tỷ sản phẩm quần áo mỗi năm.
+ 
+![](https://blog.si-log.net/hubfs/Immagini_Articoli/Anteprima_ASA1_Trasporti_MOFU.png){:height='300px' width='500px'}
+
+#### Sử dụng & Giặt
+Cuối cùng, ở ngôi nhà của người tiêu dùng, áo thun trải qua một trong những giai đoạn sử dụng nhiều tài nguyên nhất trong vòng đời của nó. Ví dụ, ở Mỹ, một hộ gia đình trung bình giặt gần 400 lần mỗi năm với khoảng 40 gallon nước. Máy giặt và máy sấy đều sử dụng năng lượng, với máy sấy cần gấp 5 đến 6 lần so với máy giặt. Sự thay đổi mạnh mẽ về tiêu dùng quần áo này trong 20 năm qua, do các tập đoàn lớn thúc đẩy và xu hướng thời trang nhanh đã làm tổn hại đến môi trường, sức khỏe của người nông dân và dẫn đến các vấn đề về thực hành lao động của con người. Nó cũng biến thời trang thành tác nhân gây ô nhiễm lớn thứ hai trên thế giới sau dầu mỏ.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVtaHDtCNVT5CfD_JmMdi6bI6S_oZSSP0nNQ&usqp=CAU){:height='300px' width='500px'}
+
+### Các giải pháp
+Cân nhắc việc mua sắm đồ cũ.
+ 
+Cố gắng tìm hàng dệt từ vải tái chế hoặc vải hữu cơ.
+ 
+Giặt quần áo ít hơn và phơi khô để tiết kiệm tài nguyên.
+ 
+Thay vì vứt bỏ chúng vào cuối cuộc đời, hãy quyên góp, tái chế hoặc tái sử dụng chúng làm giẻ lau.
+ 
+Nguồn: Ted Talk. The life cycle of a t-shirt – Angel Chang 
